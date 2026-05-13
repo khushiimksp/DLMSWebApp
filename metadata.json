@@ -1,0 +1,6 @@
+{
+  "name": "DLMS Smart Meter Monitor",
+  "description": "Real-time monitoring system for DLMS/COSEM smart meters with simulation mode, automated polling, and a Streamlit dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

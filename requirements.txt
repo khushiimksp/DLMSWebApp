@@ -1,0 +1,10 @@
+streamlit==1.32.0
+pandas==2.2.1
+sqlalchemy==2.0.28
+apscheduler==3.10.4
+plotly==5.19.0
+openpyxl==3.1.2
+pyserial==3.5
+python-dotenv==1.0.1
+gurux_dlms==1.0.149
+gurux_common==1.0.14
